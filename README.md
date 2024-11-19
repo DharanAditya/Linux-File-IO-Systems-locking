@@ -19,9 +19,9 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by: ADITAAYAN M
+Developed by: DHARAN ADITYA
 
-Register number: 212223040006
+Register number: 212223040035
 
 ## 1.To Write a C program that illustrates files copying 
 
